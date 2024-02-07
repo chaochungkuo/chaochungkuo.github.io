@@ -14,6 +14,7 @@ order: 3
 ### General learning materials
 
 - [Getting Started with Seurat](https://satijalab.org/seurat/articles/get_started_v5_new)
+- [Analysis of single cell RNA-seq data](https://www.singlecellcourse.org/index.html)
 
 ### Automatic cell type annotation
 
