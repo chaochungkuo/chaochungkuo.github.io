@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-list-check
+icon: fas fa-lines-leaning
 order: 3
 ---
 
