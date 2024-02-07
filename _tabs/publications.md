@@ -4,7 +4,9 @@ icon: fas fa-book-open
 order: 1
 ---
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" style="height:100px" alt="ORCID iD">](https://orcid.org/0000-0001-8879-4754) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="height:100px" alt="Google Scholar">](https://scholar.google.com/citations?user=CCBhoxwAAAAJ&hl=en)[<img src="https://europepmc.org/img/Europe%20PMC%20Basic%20Logo%20RGB.71c1dbf7.png?t=1" style="height:100px" alt="Europepmc">](https://europepmc.org/authors/0000-0001-8879-4754)
+Please check the following profile for the latest records:
+
+[<img src="assets/img/logos/orcid.png" style="height:100px" alt="ORCID iD">](https://orcid.org/0000-0001-8879-4754) [<img src="assets/img/logos/googlescholar.png" style="height:100px" alt="Google Scholar">](https://scholar.google.com/citations?user=CCBhoxwAAAAJ&hl=en)[<img src="assets/img/logos/EuropePMC.png" style="height:100px" alt="Europepmc">](https://europepmc.org/authors/0000-0001-8879-4754)
 
 Below is a list of my main publications:
 
