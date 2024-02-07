@@ -11,6 +11,10 @@ order: 3
 
 ## Single-cell data analyses
 
+### General learning materials
+
+- [Getting Started with Seurat](https://satijalab.org/seurat/articles/get_started_v5_new)
+
 ### Automatic cell type annotation
 
 - [Fully-automated and ultra-fast cell-type identification using specific marker combinations from single-cell transcriptomic data](https://www.nature.com/articles/s41467-022-28803-w#citeas)
