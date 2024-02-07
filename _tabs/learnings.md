@@ -18,6 +18,7 @@ order: 3
 ### 10x Genomics
 
 ## DNA methylation analysis
+
 - [NEBNEXT® Enzymatic Methyl-seq Workflow](https://www.neb.com/en/tools-and-resources/video-library/nebnext-enzymatic-methyl-seq-workflow?autoplay=1)
 
 # Scientific skills
