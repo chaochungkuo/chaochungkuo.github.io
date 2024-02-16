@@ -26,4 +26,12 @@ order: 3
 
 - [NEBNEXT® Enzymatic Methyl-seq Workflow](https://www.neb.com/en/tools-and-resources/video-library/nebnext-enzymatic-methyl-seq-workflow?autoplay=1)
 
+# Programming
+
+## R
+
+### renv
+
+- [Introduction to renv](https://cran.r-project.org/web/packages/renv/vignettes/renv.html)
+
 # Scientific skills

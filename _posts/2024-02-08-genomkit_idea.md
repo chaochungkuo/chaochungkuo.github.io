@@ -16,6 +16,6 @@ For example, if you want to build a peak caller for differential peak calling, y
 Another example is to make a deep learning tool on genomic sequences. You might have an idea to retrieve certain genomic sequences and tokenize them to feed your model. GenomKit can handle GTF, BED and FASTA for feeding the appropriate data for your model.
 
 Take a look here:
-https://github.com/chaochungkuo/Genomkit
+[https://github.com/chaochungkuo/Genomkit](https://github.com/chaochungkuo/Genomkit)
 
 I want to finish this in 2024. Finger crossed.
