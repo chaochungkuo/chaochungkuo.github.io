@@ -36,6 +36,20 @@ conda install conda-forge::hdf5
 
 ## Initiate renv environment
 
+Because `renv` stores caches in the local folder, if you want to share these caches with other users, you need to set `RENV_PATHS_ROOT`. By default, this path is set as below:
+
+| Platform | Location     | 
+|----------|:-------------|
+| Linux | ~/.cache/R/renv |
+| macOS | ~/Library/Caches/org.R-project.R/R/renv |
+| Windows | %LOCALAPPDATA%/R/cache/R/renv |
+
+For sharing this cache folder with other users, I add this in my .bashrc:
+
+```shell
+export RENV_PATHS_ROOT=/data/shared_env/renv
+```
+
 Here are some steps I generated renv.lock for scRNAseq analysis. It is important where you initiate renv, because renv will scan all the files inside this directory and automatically install the needed packages. If you want to have a fresh start, just do it in an empty directory.
 
 ```R
@@ -52,7 +66,7 @@ renv::install("satijalab/seurat-wrappers", quietly = TRUE)
 
 If this is your first time to install those packages, it will take some time, but it will be much faster in the future, because they don't need to be compiled again.
 
-After making sure this environment works with your codes, you need to save it as `renv.lock` file.
+After making sure this environment works with your codes, you need to save it as `renv.lock` file. Please be aware that `renv::snapshot()` will only save the packages you import with `library(PACKAGE)` in your code. If you comment out that line as `# library(PACKAGE)`, `renv::snapshot()` won't save it.
 
 ```R
 renv::snapshot()
@@ -68,14 +82,8 @@ Whenever you need this enivronment, you just need to copy `renv.lock` file to th
 renv::restore()
 ```
 
-## Other topics:
-
-#### Where are the cache saved and reused?
-
-By default, the cache files are saved under `~/USER/.cache/R/renv/`. It is possible to customise these paths (many...) for sharing with multiple users, but I am afraid that it is very easy to get something wrong. Before I notice that we have storage problem, I won't do it. I know, it also means that every user has to compile them at least once.
-
 ## References:
 
--[Introduction to renv](https://rstudio.github.io/renv/articles/renv.html)
+- [Introduction to renv](https://rstudio.github.io/renv/articles/renv.html)
 - [Path for storing global state](https://rstudio.github.io/renv/reference/paths.html)
 
