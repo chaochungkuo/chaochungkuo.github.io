@@ -9,6 +9,12 @@ order: 3
 
 # Bioinformatics
 
+## Functional analysis
+
+### Gene Ontology
+
+- [EBI: Gene Ontology and GO Annotations](https://www.ebi.ac.uk/QuickGO/)
+
 ## Single-cell data analyses
 
 ### General learning materials
