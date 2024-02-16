@@ -76,7 +76,7 @@ Then this `renv.lock` file can be shipped whenever you need it.
  
 ## Reuse the environment
 
-Whenever you need this enivronment, you just need to copy `renv.lock` file to the working directory and restore it in your R session.
+Whenever you need this environment, you just need to copy `renv.lock` file to the working directory and restore it in your R session.
 
 ```R
 renv::restore()
