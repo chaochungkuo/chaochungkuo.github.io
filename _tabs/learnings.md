@@ -34,6 +34,12 @@ order: 3
 
 # Programming
 
+## GitHub
+
+### GitHub Actions
+
+- [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
+
 ## R
 
 ### renv

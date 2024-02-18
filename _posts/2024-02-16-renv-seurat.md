@@ -26,6 +26,8 @@ conda create --name R4.2.2
 conda activate R4.2.2
 conda install conda-forge::r-base==4.2.2
 conda install conda-forge::r-essentials
+conda install conda-forge::r-renv
+conda install conda-forge::r-biocmanager
 ```
 
 Because of hdf5r package, I have to install hdf5 into conda env.
@@ -81,6 +83,13 @@ Whenever you need this environment, you just need to copy `renv.lock` file to th
 ```R
 renv::restore()
 ```
+
+## Problems
+
+- [Bioconductor packages on github not installing dependencies](https://github.com/rstudio/renv/issues/934)
+  ```R
+  options(repos = BiocManager::repositories())
+  ```
 
 ## References:
 
