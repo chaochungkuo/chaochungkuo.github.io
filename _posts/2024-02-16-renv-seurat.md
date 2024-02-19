@@ -88,6 +88,7 @@ renv::restore()
 
 - [Bioconductor packages on github not installing dependencies](https://github.com/rstudio/renv/issues/934)
   ```R
+  install.packages("BiocManager")
   options(repos = BiocManager::repositories())
   ```
 
