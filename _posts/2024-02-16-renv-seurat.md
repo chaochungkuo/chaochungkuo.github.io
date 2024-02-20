@@ -66,7 +66,9 @@ renv::install("satijalab/azimuth", quietly = TRUE)
 renv::install("satijalab/seurat-wrappers", quietly = TRUE)
 ```
 
-**When you install packages by renv, ALWAYS make sure where you are installing.**
+- **When you install packages by renv, ALWAYS make sure where you are installing.**
+- **Do not install R packages with conda. This will mix up the setting.**
+- **Be patient to follow the error message and solve it. Once it is compiled, you don't need to solve it again in the same machine.**
 
 If this is your first time to install those packages, it will take some time, but it will be much faster in the future, because they don't need to be compiled again.
 
