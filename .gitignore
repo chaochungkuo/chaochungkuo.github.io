@@ -17,7 +17,7 @@ package-lock.json
 # IDE configurations
 .idea
 .vscode
-.code-workspace
+chaochungkuo.github.io.code-workspace
 
 # Misc
 assets/js/dist
