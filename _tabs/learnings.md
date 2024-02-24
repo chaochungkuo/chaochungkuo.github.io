@@ -50,6 +50,7 @@ order: 3
 ### renv
 
 - [Introduction to renv](https://cran.r-project.org/web/packages/renv/vignettes/renv.html)
+- [Things that can go wrong when using renv](https://epiverse-trace.github.io/posts/renv-complications/)
 
 ## Mojo
 
@@ -57,4 +58,18 @@ order: 3
 
 - [Jeremy Howard demo for Mojo launch (Video)](https://www.youtube.com/watch?v=6GvB5lZJqcE)
 
+## IDE
+
+### AI-assistance
+
+- [Generative AI in Jupyter](https://blog.jupyter.org/generative-ai-in-jupyter-3f7174824862)
+- [Jupyter AI](https://github.com/jupyterlab/jupyter-ai)
+
+
 # Scientific skills
+
+## Writing
+
+### Articles
+
+- [Cooper, I. Diane. "How to write an original research paper (and get it published)." Journal of the Medical Library Association: JMLA 103.2 (2015): 67.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4404856/)
