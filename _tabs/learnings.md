@@ -51,4 +51,10 @@ order: 3
 
 - [Introduction to renv](https://cran.r-project.org/web/packages/renv/vignettes/renv.html)
 
+## Mojo
+
+### Introduction
+
+- [Jeremy Howard demo for Mojo launch (Video)](https://www.youtube.com/watch?v=6GvB5lZJqcE)
+
 # Scientific skills
