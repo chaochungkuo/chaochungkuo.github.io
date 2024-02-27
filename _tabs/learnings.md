@@ -38,6 +38,10 @@ order: 3
 - Illumina’s methylation arrays
   - [Tutorial of minfi](https://bioconductor.org/packages/devel/bioc/vignettes/minfi/inst/doc/minfi.html)
 
+## Visualization
+
+- [Making a heatmap in R with the pheatmap package](https://davetang.org/muse/2018/05/15/making-a-heatmap-in-r-with-the-pheatmap-package/)
+
 # **Sequencing technologies**
 
 ## Single-cell sequencing
