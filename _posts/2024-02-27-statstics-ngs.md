@@ -2,7 +2,7 @@
 title: Statistics for NGS data
 date: 2024-02-027
 categories: [Bioinformatics, data]
-tags: [geo]  # TAG names should always be lowercase
+tags: [shell]  # TAG names should always be lowercase
 published: true
 ---
 
