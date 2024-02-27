@@ -4,6 +4,12 @@ icon: fas fa-lines-leaning
 order: 3
 ---
 
+# AI & Genomics
+
+- Deep learning application in genomics
+  - [Zou, James, et al. "A primer on deep learning in genomics." Nature genetics 51.1 (2019): 12-18.](https://www.nature.com/articles/s41588-018-0295-5)
+  - [Caudai, Claudia, et al. "AI applications in functional genomics." Computational and Structural Biotechnology Journal 19 (2021): 5762-5790.](https://www.sciencedirect.com/science/article/pii/S2001037021004311)
+
 # **Bioinformatics**
 
 ## Functional analysis
