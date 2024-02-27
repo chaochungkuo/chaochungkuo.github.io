@@ -22,7 +22,20 @@ order: 3
 - Automatic cell type annotation
   - [Fully-automated and ultra-fast cell-type identification using specific marker combinations from single-cell transcriptomic data](https://www.nature.com/articles/s41467-022-28803-w#citeas)
 
-## DNA methylation analysis
+## Methylation analysis
+
+- [Tutorial of methylKit](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials/methylationSeq/Seq_Tutorial.html)
+- [Tutorial of dmrseq](https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq/inst/doc/dmrseq.html)
+- [Tutorial of BSseq](https://www.bioconductor.org/packages/devel/bioc/vignettes/bsseq/inst/doc/bsseq.html)
+- [Tutorial of DSS](https://bioconductor.org/packages/release/bioc/vignettes/DSS/inst/doc/DSS.html#1_Introduction)
+
+# **Sequencing technologies**
+
+## Single-cell sequencing
+
+- [ParseBioscience: Evercode™ Whole Transcriptome](https://www.parsebiosciences.com/products/evercode-wt/)
+
+## Methylation sequencing
 
 - [NEBNEXT® Enzymatic Methyl-seq Workflow](https://www.neb.com/en/tools-and-resources/video-library/nebnext-enzymatic-methyl-seq-workflow?autoplay=1)
 
