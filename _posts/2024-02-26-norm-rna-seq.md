@@ -33,15 +33,7 @@ FPKM stands for fragments per kilobase of exon per million mapped fragments. It 
 
 > The R package tximport was used to prepare gene level count data from RSEM output files. Subsequently, normalized count data were derived using the DESeq2 package. The normalization approach used by DESeq2 is to form a “virtual reference sample” by taking the geometric mean of counts over all samples for each gene. Then, DESeq2 normalizes each sample to this virtual reference to get one scaling factor per sample.
 
-Below is a more expanded comparison from [Harvard Chan Bioinformatics Core](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/lessons/sample_level_QC.html):
-
-| Normalization method | Description | Accounted factors | Recommendations for use |
-|:---:|:---:|:---:|:---:|
-| CPM (counts per million) | counts scaled by total number of reads | sequencing depth | gene count comparisons between replicates of the same samplegroup; NOT for within sample comparisons or DE analysis |
-| TPM (transcripts per kilobase million) | counts per length of transcript (kb) per million reads mapped | sequencing depth and gene length | gene count comparisons within a sample or between samples of the same sample group; NOT for DE analysis |
-| RPKM/FPKM (reads/fragments per kilobase of exon per million reads/fragments mapped) | similar to TPM | sequencing depth and gene length | gene count comparisons between genes within a sample; NOT for between sample comparisons or DE analysis |
-| DESeq2’s median of ratios [1] | counts divided by sample-specific size factors determined by median ratio of gene counts relative to geometric mean per gene | sequencing depth and RNA composition | gene count comparisons between samples and for DE analysis; NOT for within sample comparisons |
-| EdgeR’s trimmed mean of M values (TMM) [2] | uses a weighted trimmed mean of the log expression ratios between samples | sequencing depth, RNA composition | gene count comparisons between samples and for DE analysis; NOT for within sample comparisons |
+Please refer to [this table](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/lessons/sample_level_QC.html#common-normalization-methods) for a more expanded comparison from [Harvard Chan Bioinformatics Core](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/lessons/sample_level_QC.html).
 
 ## Reference
 
