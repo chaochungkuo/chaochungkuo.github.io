@@ -18,6 +18,16 @@ order: 3
 
 # **Bioinformatics**
 
+## General tips
+
+- Project management
+  - [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
+  - [Ten Simple Rules for Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
+- Development
+  - [Ten simple rules for biologists learning to program](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871)
+  - [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+  - [Best Practices for Scientific Computing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+
 ## Functional analysis
 
 - Gene Ontology
@@ -36,6 +46,8 @@ order: 3
 
 ## Methylation analysis
 
+- Data processing
+  - [nf-core/methylseq: Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel](https://nf-co.re/methylseq)
 - Bisulfite sequencing
   - [Tutorial of methylKit](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials/methylationSeq/Seq_Tutorial.html)
   - [Tutorial of dmrseq](https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq/inst/doc/dmrseq.html)
