@@ -83,3 +83,15 @@ order: 3
 
 - Articles
   - [Cooper, I. Diane. "How to write an original research paper (and get it published)." Journal of the Medical Library Association: JMLA 103.2 (2015): 67.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4404856/)
+
+# **Proteomics**
+
+- General introduction
+  - [Introduction to Proteomics | 2021 EMSL Summer School](https://youtu.be/mgTlo_kndzQ?si=ishN9SK7xIadsGfw)
+  - [Mass Spectrometry-Based Proteomics | 2021 EMSL Summer School](https://youtu.be/VcbbG7Y5qIs?si=KbSxinQfpn8BKw-9)
+
+- Proteomics analysis
+  - [nf-core/quantms: Quantitative mass spectrometry workflow](https://nf-co.re/quantms)
+  - [nf-core/proteomicslfq: Proteomics label-free quantification (LFQ) analysis pipeline](https://nf-co.re/proteomicslfq)
+  - [nf-core/diaproteomics: Automated quantitative analysis of DIA proteomics mass spectrometry measurements](https://nf-co.re/diaproteomics)
+  - [Proteomics Data Analysis in R/Bioconductor](https://pnnl-comp-mass-spec.github.io/proteomics-data-analysis-tutorial/)
