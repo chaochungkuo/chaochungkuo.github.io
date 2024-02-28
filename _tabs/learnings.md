@@ -75,6 +75,8 @@ order: 3
 
 - Introduction
   - [Jeremy Howard demo for Mojo launch (Video)](https://www.youtube.com/watch?v=6GvB5lZJqcE)
+- Documentation
+  - [Mojo🔥 Doc](https://docs.modular.com/mojo/)
 
 ## IDE
 
