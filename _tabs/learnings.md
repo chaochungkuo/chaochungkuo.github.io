@@ -46,14 +46,14 @@ order: 3
 
 ## Methylation analysis
 
-- Data processing
+- Data processing for Bisulfite-Sequencing
   - [nf-core/methylseq: Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel](https://nf-co.re/methylseq)
-- Bisulfite sequencing
+- Analyses tools for Bisulfite-Sequencing
   - [Tutorial of methylKit](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials/methylationSeq/Seq_Tutorial.html)
   - [Tutorial of dmrseq](https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq/inst/doc/dmrseq.html)
   - [Tutorial of BSseq](https://www.bioconductor.org/packages/devel/bioc/vignettes/bsseq/inst/doc/bsseq.html)
   - [Tutorial of DSS](https://bioconductor.org/packages/release/bioc/vignettes/DSS/inst/doc/DSS.html#1_Introduction)
-- Illumina’s methylation arrays
+- Analysis for Illumina’s methylation arrays
   - [Tutorial of minfi](https://bioconductor.org/packages/devel/bioc/vignettes/minfi/inst/doc/minfi.html)
 
 ## Visualization
