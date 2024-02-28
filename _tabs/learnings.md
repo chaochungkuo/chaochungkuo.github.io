@@ -107,8 +107,8 @@ order: 3
 # **Proteomics**
 
 - General introduction
-  - [Introduction to Proteomics | 2021 EMSL Summer School](https://youtu.be/mgTlo_kndzQ?si=ishN9SK7xIadsGfw)
-  - [Mass Spectrometry-Based Proteomics | 2021 EMSL Summer School](https://youtu.be/VcbbG7Y5qIs?si=KbSxinQfpn8BKw-9)
+  - [Introduction to Proteomics 2021 EMSL Summer School](https://youtu.be/mgTlo_kndzQ?si=ishN9SK7xIadsGfw)
+  - [Mass Spectrometry-Based Proteomics 2021 EMSL Summer School](https://youtu.be/VcbbG7Y5qIs?si=KbSxinQfpn8BKw-9)
 
 - Proteomics analysis
   - [nf-core/quantms: Quantitative mass spectrometry workflow](https://nf-co.re/quantms)
