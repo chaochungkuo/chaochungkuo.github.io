@@ -4,6 +4,12 @@ icon: fas fa-lines-leaning
 order: 3
 ---
 
+# Genomics
+
+## General course
+
+- [Introduction to Genomics for Engineers](https://learngenomics.dev/)
+
 # AI & Genomics
 
 - Deep learning application in genomics
