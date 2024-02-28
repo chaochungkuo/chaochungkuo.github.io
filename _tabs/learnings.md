@@ -4,13 +4,13 @@ icon: fas fa-lines-leaning
 order: 3
 ---
 
-# Genomics
+# **Genomics**
 
 ## General course
 
 - [Introduction to Genomics for Engineers](https://learngenomics.dev/)
 
-# AI & Genomics
+# **AI & Genomics**
 
 - Deep learning application in genomics
   - [Zou, James, et al. "A primer on deep learning in genomics." Nature genetics 51.1 (2019): 12-18.](https://www.nature.com/articles/s41588-018-0295-5)
