@@ -12,9 +12,15 @@ order: 3
 
 # **AI & Genomics**
 
-- Deep learning application in genomics
-  - [Zou, James, et al. "A primer on deep learning in genomics." Nature genetics 51.1 (2019): 12-18.](https://www.nature.com/articles/s41588-018-0295-5)
-  - [Caudai, Claudia, et al. "AI applications in functional genomics." Computational and Structural Biotechnology Journal 19 (2021): 5762-5790.](https://www.sciencedirect.com/science/article/pii/S2001037021004311)
+## Deep learning application in genomics
+
+- [Zou, James, et al. "A primer on deep learning in genomics." Nature genetics 51.1 (2019): 12-18.](https://www.nature.com/articles/s41588-018-0295-5)
+- [Caudai, Claudia, et al. "AI applications in functional genomics." Computational and Structural Biotechnology Journal 19 (2021): 5762-5790.](https://www.sciencedirect.com/science/article/pii/S2001037021004311)
+
+## Books for reading
+
+- [Book: Deep Learning in Bioinformatics](https://www.sciencedirect.com/book/9780128238226/deep-learning-in-bioinformatics)
+- [Book: Deep Learning for Genomics: Data-driven approaches for genomics applications in life sciences and biotechnology](https://www.amazon.com/dp/1804615447)
 
 # **Bioinformatics**
 
