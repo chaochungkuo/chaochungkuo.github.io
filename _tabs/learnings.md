@@ -44,9 +44,12 @@ order: 3
 - General learning materials
   - [Getting Started with Seurat](https://satijalab.org/seurat/articles/get_started_v5_new)
   - [Analysis of single cell RNA-seq data](https://www.singlecellcourse.org/index.html)
+  - [Single-cell RNA-seq workshop](https://hbctraining.github.io/scRNA-seq/schedule/)
 - Seurat examples
   - [Seurat Example Workflow (www.bioinformatics.babraham.ac.uk)](https://www.bioinformatics.babraham.ac.uk/training/10XRNASeq/seurat_workflow.html)
   - [Seurat - Guided Clustering Tutorial](https://satijalab.org/seurat/articles/pbmc3k_tutorial.html)
+- Quality control
+  - [hbctraining: Single-cell RNA-seq: Quality control](https://hbctraining.github.io/scRNA-seq/lessons/04_SC_quality_control.html)
 - Automatic cell type annotation
   - [Fully-automated and ultra-fast cell-type identification using specific marker combinations from single-cell transcriptomic data](https://www.nature.com/articles/s41467-022-28803-w#citeas)
 
