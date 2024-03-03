@@ -12,6 +12,10 @@ order: 3
 
 # **AI & Genomics**
 
+## Tips for modeling
+
+- Markowetz, F. All models are wrong and yours are useless: making clinical prediction models impactful for patients. npj Precis. Onc. 8, 54 (2024). [https://doi.org/10.1038/s41698-024-00553-6](https://doi.org/10.1038/s41698-024-00553-6)
+
 ## Deep learning application in genomics
 
 - [Zou, James, et al. "A primer on deep learning in genomics." Nature genetics 51.1 (2019): 12-18.](https://www.nature.com/articles/s41588-018-0295-5)
