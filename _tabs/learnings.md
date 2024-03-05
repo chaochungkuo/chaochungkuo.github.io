@@ -10,6 +10,14 @@ order: 3
 
 - [Introduction to Genomics for Engineers](https://learngenomics.dev/)
 
+# **AI**
+
+## Learning resources
+- Video
+  - [50 Days of Deep Learning by Mısra Turp](https://www.youtube.com/playlist?list=PLM8lYG2MzHmQn55ii0duXdO9QSoDF5myF)
+- Books
+  - [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/)
+
 # **AI & Genomics**
 
 ## Tips for modeling
