@@ -98,6 +98,10 @@ order: 3
 - GitHub Actions
   - [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 
+## Linux
+
+- [Guide to Using Umask Command in Linux](https://www.liquidweb.com/kb/what-is-umask-and-how-to-use-it-effectively/)
+
 ## R
 
 - renv
