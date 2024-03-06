@@ -97,6 +97,8 @@ order: 3
 
 - GitHub Actions
   - [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
+- Gitbook
+  - [Simple tutorial on hosting your Gitbook documentation on Github pages (bonus: with Gitbook Editor)](https://medium.com/@richdayandnight/simple-tutorial-on-hosting-your-gitbook-documentation-on-github-pages-bonus-with-gitbook-editor-f27f60d5d408)
 
 ## Shell scripting
 
