@@ -42,6 +42,8 @@ order: 3
 
 - Gene Ontology
   - [EBI: Gene Ontology and GO Annotations](https://www.ebi.ac.uk/QuickGO/)
+- Packages
+  - [Biomedical Knowledge Mining using GOSemSim and clusterProfiler](https://yulab-smu.top/biomedical-knowledge-mining-book/index.html)
 
 ## Single-cell data analyses
 
