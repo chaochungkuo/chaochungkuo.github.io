@@ -10,6 +10,14 @@ order: 3
 
 - [Introduction to Genomics for Engineers](https://learngenomics.dev/)
 
+# **AI**
+
+## Learning resources
+- Video
+  - [50 Days of Deep Learning by Mısra Turp](https://www.youtube.com/playlist?list=PLM8lYG2MzHmQn55ii0duXdO9QSoDF5myF)
+- Books
+  - [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/)
+
 # **AI & Genomics**
 
 ## Tips for modeling
@@ -92,11 +100,21 @@ order: 3
 - GitHub Actions
   - [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 
+## Shell scripting
+
+- Tutorials in general
+  - [Introduction to the Command Line for Genomics](https://bioinformatics-core-shared-training.github.io/shell-genomics/)
+- Specific programs
+  - [Guide to Using Umask Command in Linux](https://www.liquidweb.com/kb/what-is-umask-and-how-to-use-it-effectively/)
+  - [How To Use Linux Screen](https://linuxize.com/post/how-to-use-linux-screen/)
+
 ## R
 
 - renv
   - [Introduction to renv](https://cran.r-project.org/web/packages/renv/vignettes/renv.html)
   - [Things that can go wrong when using renv](https://epiverse-trace.github.io/posts/renv-complications/)
+-visualization
+  - [Curated resources for Data Visualization, Drawing & Publishing in R by krzjoa](https://krzjoa.github.io/awesome-r-dataviz/)
 
 ## Mojo
 
@@ -111,13 +129,16 @@ order: 3
   - [Generative AI in Jupyter](https://blog.jupyter.org/generative-ai-in-jupyter-3f7174824862)
   - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai)
 
-
 # **Scientific skills**
 
 ## Writing
 
 - Articles
   - [Cooper, I. Diane. "How to write an original research paper (and get it published)." Journal of the Medical Library Association: JMLA 103.2 (2015): 67.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4404856/)
+
+## Visualization
+
+- [RAWGraphs: A free and open source tool for data visualization](https://www.rawgraphs.io/)
 
 # **Proteomics**
 
