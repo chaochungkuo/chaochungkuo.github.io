@@ -113,6 +113,13 @@ order: 3
 - renv
   - [Introduction to renv](https://cran.r-project.org/web/packages/renv/vignettes/renv.html)
   - [Things that can go wrong when using renv](https://epiverse-trace.github.io/posts/renv-complications/)
+- [Tidyverse packages](https://www.tidyverse.org/packages/)
+  - dplyr
+    - [Dplyr Essentials (easy data manipulation in R): select, mutate, filter, group_by, summarise, & more](https://www.youtube.com/watch?v=Gvhkp-Yw65U)
+    - [Dplyr Advanced Guide: data cleaning, reshaping, and merging with lubridate, stringr, tidyr, ggplot2](https://www.youtube.com/watch?v=DiY8EqZDwoI)
+    - [dplyr cheatsheets](https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf)
+  - tidyr
+    - [tidyr cheatsheets](https://github.com/rstudio/cheatsheets/blob/main/tidyr.pdf)
 -visualization
   - [Curated resources for Data Visualization, Drawing & Publishing in R by krzjoa](https://krzjoa.github.io/awesome-r-dataviz/)
 
