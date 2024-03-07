@@ -101,6 +101,7 @@ order: 3
 ## Linux
 
 - [Guide to Using Umask Command in Linux](https://www.liquidweb.com/kb/what-is-umask-and-how-to-use-it-effectively/)
+- [How to Change The Primary Group of a User in Linux?](https://www.geeksforgeeks.org/how-to-change-the-primary-group-of-a-user-in-linux/)
 
 ## R
 
