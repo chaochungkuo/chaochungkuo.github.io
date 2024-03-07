@@ -97,17 +97,24 @@ order: 3
 
 - GitHub Actions
   - [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
+- Gitbook
+  - [Simple tutorial on hosting your Gitbook documentation on Github pages (bonus: with Gitbook Editor)](https://medium.com/@richdayandnight/simple-tutorial-on-hosting-your-gitbook-documentation-on-github-pages-bonus-with-gitbook-editor-f27f60d5d408)
 
-## Linux
+## Shell scripting
 
-- [Guide to Using Umask Command in Linux](https://www.liquidweb.com/kb/what-is-umask-and-how-to-use-it-effectively/)
-- [How to Change The Primary Group of a User in Linux?](https://www.geeksforgeeks.org/how-to-change-the-primary-group-of-a-user-in-linux/)
+- Tutorials in general
+  - [Introduction to the Command Line for Genomics](https://bioinformatics-core-shared-training.github.io/shell-genomics/)
+- Specific programs
+  - [Guide to Using Umask Command in Linux](https://www.liquidweb.com/kb/what-is-umask-and-how-to-use-it-effectively/)
+  - [How To Use Linux Screen](https://linuxize.com/post/how-to-use-linux-screen/)
 
 ## R
 
 - renv
   - [Introduction to renv](https://cran.r-project.org/web/packages/renv/vignettes/renv.html)
   - [Things that can go wrong when using renv](https://epiverse-trace.github.io/posts/renv-complications/)
+-visualization
+  - [Curated resources for Data Visualization, Drawing & Publishing in R by krzjoa](https://krzjoa.github.io/awesome-r-dataviz/)
 
 ## Mojo
 
@@ -122,13 +129,16 @@ order: 3
   - [Generative AI in Jupyter](https://blog.jupyter.org/generative-ai-in-jupyter-3f7174824862)
   - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai)
 
-
 # **Scientific skills**
 
 ## Writing
 
 - Articles
   - [Cooper, I. Diane. "How to write an original research paper (and get it published)." Journal of the Medical Library Association: JMLA 103.2 (2015): 67.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4404856/)
+
+## Visualization
+
+- [RAWGraphs: A free and open source tool for data visualization](https://www.rawgraphs.io/)
 
 # **Proteomics**
 
