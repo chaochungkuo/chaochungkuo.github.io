@@ -2,7 +2,7 @@
 title: Conflict in htmltools versions between Seurat and renv
 date: 2024-02-13
 categories: [Programming, R]
-tags: [htmltools, Seurat]     # TAG names should always be lowercase
+tags: [htmltools, seurat]     # TAG names should always be lowercase
 published: true
 ---
 
