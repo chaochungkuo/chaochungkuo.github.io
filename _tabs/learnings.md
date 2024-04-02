@@ -59,6 +59,7 @@ order: 3
   - [Getting Started with Seurat](https://satijalab.org/seurat/articles/get_started_v5_new)
   - [Analysis of single cell RNA-seq data](https://www.singlecellcourse.org/index.html)
   - [Single-cell RNA-seq workshop](https://hbctraining.github.io/scRNA-seq/schedule/)
+  - [Workshop: Single-Cell RNA-Seq Analysis by UCLA QCBio Collaboratory](https://www.youtube.com/playlist?list=PLOXLw2he7kYpqAL0Gzco5NkA2DpewtluK)
 - Seurat examples
   - [Seurat Example Workflow (www.bioinformatics.babraham.ac.uk)](https://www.bioinformatics.babraham.ac.uk/training/10XRNASeq/seurat_workflow.html)
   - [Seurat - Guided Clustering Tutorial](https://satijalab.org/seurat/articles/pbmc3k_tutorial.html)
