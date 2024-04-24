@@ -83,7 +83,7 @@ services:
     restart: unless-stopped
 ```
 
-If you want to monitor other computational servers without Grafana, you can add the Grafana service in the docker-compose.yml file.
+If you want to monitor other computational servers with Grafana, you can add the Grafana service in the docker-compose.yml file.
 
 ```yaml
 grafana:
