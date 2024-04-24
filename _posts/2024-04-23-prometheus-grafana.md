@@ -57,14 +57,7 @@ services:
       - ./prometheus.yml:/etc/prometheus/prometheus.yaml
       - ./data:/prometheus
     restart: unless-stopped
-  grafana:
-    image: grafana/grafana-oss:latest
-    container_name: grafana
-    ports:
-      - '3000:3000'
-    volumes:
-      - grafana-data:/var/lib/grafana
-    restart: unless-stopped
+  
   node_exporter:
     image: quay.io/prometheus/node-exporter:v1.5.0
     container_name: node_exporter
@@ -73,6 +66,7 @@ services:
     restart: unless-stopped
     volumes:
       - /:/host:ro
+
   cadvisor:
     image: gcr.io/cadvisor/cadvisor:v0.47.0
     container_name: cadvisor
@@ -89,7 +83,18 @@ services:
     restart: unless-stopped
 ```
 
-If you want to monitor other computational servers without Grafana, you can remove the Grafana service from the docker-compose.yml file.
+If you want to monitor other computational servers without Grafana, you can add the Grafana service in the docker-compose.yml file.
+
+```yaml
+grafana:
+    image: grafana/grafana-oss:latest
+    container_name: grafana
+    ports:
+      - '3000:3000'
+    volumes:
+      - grafana-data:/var/lib/grafana
+    restart: unless-stopped
+```
 
 ### prometheus.yml
 
@@ -117,9 +122,20 @@ scrape_configs:
 
 ## Start the containers
 
+After creating the docker-compose.yml and prometheus.yml files, you can start the containers with the following command:
+
 ```bash
 docker-compose up -d
 ```
 
+This command will start all the containers in the background. You can check the status of the containers with the following command:
+
+```bash
+docker-compose ps
+```
 
 ## Access the Grafana Dashboard
+
+Open your web browser and go to http://your-server-ip:3000. The default username and password are both `admin`. Please change the password as soon as possible.
+
+## Configure Prometheus to Scrape the Servers
