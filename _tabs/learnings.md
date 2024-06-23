@@ -10,6 +10,11 @@ order: 3
 
 - [Introduction to Genomics for Engineers](https://learngenomics.dev/)
 
+# **Machine Learning**
+
+## Feature selection
+- [How to Choose a Feature Selection Method For Machine Learning]()
+
 # **AI**
 
 ## Learning resources
