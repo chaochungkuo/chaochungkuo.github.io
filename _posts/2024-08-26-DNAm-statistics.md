@@ -23,7 +23,7 @@ In DNA methylation studies, particularly in differential analysis, researchers o
   M = \log_2 \left(\frac{\text{methylated signal}}{\text{unmethylated signal}}\right)
   $$
 
-  M-values can range from `$$ -\infty $$` to `$$ +\infty $$`.
+  M-values can range from $$ -\infty $$ to $$ +\infty $$.
 
 ## Technical Advantages of M-values
 
