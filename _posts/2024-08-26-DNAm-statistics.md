@@ -4,6 +4,7 @@ date: 2024-08-26
 categories: [Bioinformatics, DNA methylation]
 tags: [methylation]  # TAG names should always be lowercase
 published: true
+math: true
 ---
 
 In DNA methylation studies, particularly in differential analysis, researchers often face the choice between using **M-values** or **Beta values**. While both metrics provide insights into methylation levels, M-values are generally considered more robust for differential analysis. This blog post will explore the technical and biological reasons behind this preference.
@@ -11,6 +12,9 @@ In DNA methylation studies, particularly in differential analysis, researchers o
 ## What Are Beta Values and M-values?
 
 - **Beta values** represent the ratio of the methylated signal to the sum of the methylated and unmethylated signals at a given CpG site. Beta values range from 0 to 1, where 0 indicates no methylation and 1 indicates full methylation.
+  \[
+  \text{Beta} = \frac{\text{methylated signal}}{\text{methylated signal} + \text{unmethylated signal}}
+  \]
 
 - **M-values** are the log2 ratio of the methylated to unmethylated signal intensities. Mathematically, they are expressed as:
   \[
