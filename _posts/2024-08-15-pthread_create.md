@@ -1,5 +1,5 @@
 ---
-title: Handling the `pthread_create()` Error in R: A Practical Guide
+title: Handling the `pthread_create()` Error in R
 date: 2024-08-15
 categories: [Programming, R]
 tags: [renv]  # TAG names should always be lowercase
