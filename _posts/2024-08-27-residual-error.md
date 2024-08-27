@@ -1,9 +1,10 @@
 ---
-title: Understanding the "No Residual Degrees of Freedom" Error in `limma`: A Comprehensive Guide
+title: Understanding the "No Residual Degrees of Freedom" Error in `limma`
 date: 2024-08-27
 categories: [Programming, R]
 tags: [r, limma]  # TAG names should always be lowercase
 published: true
+math: true
 ---
 
 In bioinformatics, particularly in the analysis of DNA methylation or gene expression data, the `limma` package in R is a powerful tool for identifying differentially expressed genes or differentially methylated regions. However, one common error that can trip up even experienced users is the following:
