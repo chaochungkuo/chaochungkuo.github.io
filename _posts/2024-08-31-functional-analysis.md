@@ -1,6 +1,6 @@
 ---
 title: Introduction to Functional Analysis on Genomic Data with GSEApy
-date: 2024-09-01
+date: 2024-08-31
 categories: [Bioinformatics, functional analysis]
 tags: [gseapy, python, go]  # TAG names should always be lowercase
 published: true
