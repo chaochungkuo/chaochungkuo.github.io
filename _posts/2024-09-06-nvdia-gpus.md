@@ -10,6 +10,20 @@ NVIDIA is a household name in the tech world, renowned for producing some of the
 
 In this post, we'll walk you through the different **layers of NVIDIA GPUs**—from the consumer-friendly **GeForce series** to the data-center juggernauts like the **H100**—explaining their power, memory, price ranges, and key use cases. By the end, you'll have a solid understanding of what each GPU offers and who should be using it.
 
+
+### Summary of NVIDIA’s GPU Product Lines
+
+| **Product Line**   | **Target Users**         | **Power**                       | **Memory**                       | **Price Range**         | **Year** | **Use Cases**                                                    |
+|--------------------|--------------------------|----------------------------------|----------------------------------|-------------------------|----------|------------------------------------------------------------------|
+| **GeForce**        | Gamers, Creators          | Moderate to very high            | 4 GB – 24 GB GDDR6               | $150 – $2,000            | 2019–2022 | Gaming, streaming, content creation, AI experimentation          |
+| **Quadro/RTX A**    | Professionals (Workstation)| High to extremely high           | 16 GB – 48 GB GDDR6 ECC          | $1,500 – $6,000          | 2019–2021 | CAD, 3D modeling, AI, scientific visualization, video editing     |
+| **Tesla/A100/H100** | Data Centers, HPC         | Very high to extremely high       | 16 GB – 80 GB HBM2e/HBM3         | $6,000 – $35,000         | 2017–2022 | AI training, deep learning, HPC, scientific computing             |
+| **TITAN**          | Enthusiasts, AI Developers | Very high                        | 12 GB – 24 GB GDDR6/HBM2         | $2,500 – $4,000          | 2017–2018 | AI, deep learning, high-end content creation, large datasets      |
+| **Jetson**         | Edge AI, Embedded Systems  | Moderate to high                 | 8 GB – 64 GB LPDDR5              | $500 – $2,000            | 2020–2022 | Robotics, smart devices, AI inference
+
+ at the edge                 |
+| **CMP**            | Crypto Miners             | High                             | 10 GB – 24 GB GDDR6              | $1,000 – $3,000          | 2021     | Cryptocurrency mining                                           |
+
 ---
 
 ## **1. NVIDIA GeForce Series (Consumer/Gaming GPUs)**
