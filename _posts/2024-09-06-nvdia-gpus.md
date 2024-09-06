@@ -1,5 +1,5 @@
 ---
-title: A Complete Guide to NVIDIA’s GPU Lineup: GeForce, Quadro, A100, H100, and More
+title: A Complete Guide to NVIDIA’s GPU Lineup
 date: 2024-09-06
 categories: [IT, GPU]
 tags: [gpu, nvidia]  # TAG names should always be lowercase
