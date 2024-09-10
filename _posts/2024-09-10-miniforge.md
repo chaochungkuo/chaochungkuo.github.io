@@ -1,5 +1,5 @@
 ---
-title: Why You Should Use **Miniforge** Instead of **Anaconda** for Research in Large Entities
+title: Why You Should Use Miniforge Instead of Anaconda for Research in Large Entities
 date: 2024-09-10
 categories: [IT, package management]
 tags: [conda, miniforge]  # TAG names should always be lowercase
