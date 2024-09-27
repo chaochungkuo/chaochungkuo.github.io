@@ -22,6 +22,10 @@ GPM (Genomic Project Manager) is a versatile command-line tool designed for mana
 - Comprehensive NGS Application Coverage: Covering a wide range of Next-Generation Sequencing (NGS) applications, including RNAseq, tRNAseq, mRNAseq, ChIPseq, ATACseq, CLIPseq, ampliseq, scRNAseq, scVDJseq, scATACseq, miRNAseq, BWGS, WES, 16S, MAG, and more.
 - Ideal for Bioinformatics Services: A powerful tool for individuals providing bioinformatic services.
 
+## [Seqmon](https://github.com/chaochungkuo/seqmon): A Lightweight Sequencing Monitor
+
+Seqmon is a web application built on Plotly Dash designed to monitor sequencing runs across multiple sequencers and analyze the statistics of demultiplexing processes.
+
 ## GenomicAI
 
 More to come...
