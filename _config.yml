@@ -14,12 +14,12 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Genomics AI # the main title
+title: Exploring Truth # the main title
 
 tagline: Joseph Chao-Chung Kuo # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Welcome to Genomics AI, where biology meets artificial intelligence. Explore the intersection of genomics and AI through insightful articles and tutorials. Uncover the mysteries of DNA, delve into cutting-edge research, and embark on a journey of discovery with me. Let's decode the future of biology, together.
+  ExploringTruth: A blog connecting genomics, AI, biology, and theology. Join a journey of discovery through science, technology, and faith, uncovering insights that shape our world.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
