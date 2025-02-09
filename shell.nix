@@ -8,3 +8,7 @@ pkgs.mkShell {
     pkgs.nodejs  # If your Jekyll project uses JS dependencies
   ];
 }
+
+# nix-shell
+# bundle install
+# bundle exec jekyll serve
