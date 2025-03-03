@@ -1,5 +1,5 @@
 ---
-title: Modern Python Packaging: Say Goodbye to `setup.py`
+title: "Modern Python Packaging: Say Goodbye to `setup.py`"
 date: 2025-03-02
 categories: [Programming, Python]
 tags: [python, pyproject, development]  # TAG names should always be lowercase
